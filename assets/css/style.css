@@ -1,6 +1,43 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General css styles */
+
+body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+            
+/* Generic project style */
+         color: whitesmoke;
+         font-family: 'Philosopher', sans-serif;
+}
+/* hero image style idea taken from Love Running Project */
+
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/heroimage.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
 
 /* Header styles taken from https://www.w3schools.com/howto/howto_css_responsive_header.asp */
 .header {
