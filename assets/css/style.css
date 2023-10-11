@@ -20,6 +20,9 @@ body {
          color: whitesmoke;
          font-family: 'Philosopher', sans-serif;
 }
+
+
+
 /* hero image style idea taken from Love Running Project */
 
 #hero {
@@ -41,15 +44,19 @@ body {
 }
 
 /* Info section on first page */
-.first-info {
+#info-section {
     display: flex;
     text-align: center;
+    justify-content: center;
     flex-direction: column;
+}
+#first-info h2, h3 {
+    text-align: center;
     justify-content: center;
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 150%;
     position: absolute;
     bottom: 30px;
     width: 80%;
