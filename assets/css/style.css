@@ -50,7 +50,7 @@ h1 {
     letter-spacing: 2px;
     color: black;
 }
-}
+
 /* Media querie for responsiveness with a max width of 500px */
 @media screen and (max-width: 500px) {
   .header a {
