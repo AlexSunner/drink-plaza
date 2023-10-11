@@ -88,6 +88,22 @@ h1 {
     color: black;
 }
 
+/* Footer styles taken form the Love Running Project */
+
+#social-network {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-network i {
+    font-size: 160%;
+    padding: 5%;
+    color: whitesmoke;
+}
+
 /* Media querie for responsiveness with a max width of 500px */
 @media screen and (max-width: 500px) {
   .header a {
