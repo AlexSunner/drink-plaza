@@ -59,6 +59,7 @@ main {
     text-align: center;
     justify-content: center;
     flex-direction: column;
+    border: solid 1px white;
 }
 #first-info h2, h3 {
     text-align: center;
