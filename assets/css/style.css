@@ -179,8 +179,8 @@ h1 {
     color: white;
     display: inline-block;
     width: 1em;
-    margin-left: -1em
-    padding-left: 5px;
+    margin-left: -1em;
+    padding-left: 10px;
 }
 
 /* Media querie for responsiveness with a max width of 700px */
