@@ -144,6 +144,8 @@ h1 {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    opacity: 1;
+    animation: fadeIn 4s;
 }
 .drink-box {
     flex-basis: 20%;
@@ -160,6 +162,7 @@ h1 {
 .drink-ul > li {
     display: flex;
     margin: 8px;
+    font-size: 20px;
 }
 
 /* Media querie for responsiveness with a max width of 500px */
