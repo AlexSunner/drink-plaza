@@ -55,16 +55,6 @@ main {
     }
 }
 
-/* Info section on first page */
-#info-section {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    flex-direction: column;
-    border: solid 1px white;
-}
-
-
 #cover-text {
     font-size: 2rem;
     position: absolute;
@@ -139,6 +129,19 @@ h1 {
     font-size: 160%;
     padding: 5%;
     color: whitesmoke;
+}
+
+/* Homepage info section styles */
+.homepage-info {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+#info-section {
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 /* Recipes section styles */
@@ -250,6 +253,17 @@ h1 {
   }
   .signup-button {
     margin-bottom: 15px;
+  }
+  .homepage-info {
+      display: flex;
+      text-align: center;
+      flex-direction: column;
+      justify-content: center space-between;
+  }
+
+  #info-section {
+      padding-left: 50px;
+      padding-right: 50px;
   }
 }
 
