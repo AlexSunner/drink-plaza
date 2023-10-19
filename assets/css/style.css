@@ -183,6 +183,18 @@ h1 {
     padding-left: 10px;
 }
 
+/* Subscription page stylings */
+
+#signup {
+    border: 2px solid white;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+    
+}
+
 /* Media querie for responsiveness with a max width of 700px */
 @media screen and (max-width: 700px) {
   .header a {
