@@ -21,6 +21,8 @@ body {
 /* Generic project style */
          color: whitesmoke;
          font-family: 'Philosopher', sans-serif;
+         background-image: url(../images/background-image.jpg);
+         background-size: cover;
 }
 
 /* Main Content taken from Love Running project */
