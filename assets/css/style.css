@@ -66,13 +66,14 @@ main {
 
 
 #cover-text {
-    font-size: 150%;
+    font-size: 2rem;
     position: absolute;
     bottom: 30px;
     width: 80%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
+    font-family: 'Philosopher', sans-serif;
 }
 
 /* Header styles taken from https://www.w3schools.com/howto/howto_css_responsive_header.asp */
