@@ -192,10 +192,7 @@ h1 {
 /* Subscription page stylings */
 
 #signup {
-    background-color: black;
     padding: 20px 10% 0 10%;
-    border: 2px solid white;
-    border-radius: 2px;
     display: flex;
     justify-content: center;
     flex-grow: 1;
