@@ -66,45 +66,39 @@ Here is a presentation of the different features added into Drink Plaza.
 - The links in the navigation bar and Logo directs the user to the designated section and homepage.
 - A message saying "Your subscription has been fully registered!" will pop up when the user submits for the weekly newsletter, as intended.
 - The Social Media icons in the footer redirects the user to the designated social medias which will open up in a tew tab, as inteded.
-- Every 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Media Query Responsiveness
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- The interface is responsive to different screen sizes.
+- If the user screen size has a maximum width of 700 pixels, the navigation bar will appear vertically.
+- If the user screen size is bigger than 700 pixels, the navigation bar will appear horizontally.
+- The different media queries are Maximum width of 700 pixels, and a maximum width of 2560 pixels.
 
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Falexsunner.github.io%2Fdrink-plaza%2F)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Falexsunner.github.io%2Fdrink-plaza%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+- No unfixed bugs has been left to display, nor has any bugs been encountered.
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - <https://code-institute-org.github.io/love-running-2.0/index.html>
+The live link can be found here - <https://alexsunner.github.io/drink-plaza/>
 
 ## Credits
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
+- The text for the Home page was taken from <https://en.wikipedia.org/wiki/Cocktail> and also from <https://www.quora.com/Why-does-people-like-cocktail-drinks>
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
