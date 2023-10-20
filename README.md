@@ -28,43 +28,33 @@ Here is a presentation of the different features added into Drink Plaza.
 
 ![Landing Page](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/heroandcover.jpg?raw=true)
 
-- __Club Ethos Section__
+- __Recipes Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
+  - Drink Plaza provides a variety of high class cocktail recipes. A image of the drink and the ingredients are clearly displayed for better user experience.
+  - The users of Drink Plaza will be encouraged to mix the shown cocktails when they see the images displayed.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Recipes Page](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/recipes.jpg?raw=true)
 
-- __Meetup Times section__
+- __Subscription Section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-  - This section will be updated as these times change to keep the user up to date.
+  - This section will allow the user to subscribe to our weekly newsletter.
+  - A weekly newsletter will be sent to the registered users, giving information regarding new popular drinks.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Subscription Form](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/subscription.jpg?raw=true)
 
 - __The Footer__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+  - The footer section includes links to the relevant social media sites for Drink Plaza. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/footer.jpg?raw=true)
 
-- __Gallery__
+- __Information Section__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like.
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+  - The information section will provide information and questions regarding the idea of Drink Plaza.
+  - This section is valuable to the user as they will be able to easily identify the reasons we exist.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Information Section](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/infofirstpage.jpg?raw=true)
 
 ### Features Left to Implement
 
@@ -72,7 +62,11 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- Every function has been tested and works as intended. 
+- The links in the navigation bar and Logo directs the user to the designated section and homepage.
+- A message saying "Your subscription has been fully registered!" will pop up when the user submits for the weekly newsletter, as intended.
+- The Social Media icons in the footer redirects the user to the designated social medias which will open up in a tew tab, as inteded.
+- Every 
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
