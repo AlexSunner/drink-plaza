@@ -4,13 +4,20 @@ Drink Plaza is the home of high class cocktail recipes. This site was created wi
 
 The live link can be found here - <https://alexsunner.github.io/drink-plaza/>
 
+## Planning
+
+### Before creating this project, I had a lot of thoughts and ideas with how I wanted the final product to look like.
+- I generally wanted to go with a very simple but dark theme, that is why I chose the gray background image.
+- I wanted to have a really cool cover image which strikes the user with the 'wow' factor. I am very happy with the one I used.
+- I wanted to have a recipe section where users can find pictures and lists of ingredients for different cocktails.
+- I wanted to have some sort of form section where users can register for weekly newsletters.
+- I needed the website to be fully responsive to different screen sizes.
+
 ![Responsive Mockup](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/mockup.jpg?raw=true)
 
 ## Features
 
 Here is a presentation of the different features added into Drink Plaza.
-
-### Existing Features
 
 - __Navigation Bar__
 
@@ -58,10 +65,9 @@ Here is a presentation of the different features added into Drink Plaza.
 
 ## Testing
 
-- Every function has been tested and works as intended. 
-- The links in the navigation bar and Logo directs the user to the designated section and homepage.
-- A message saying "Your subscription has been fully registered!" will pop up when the user submits for the weekly newsletter, as intended.
-- The Social Media icons in the footer redirects the user to the designated social medias which will open up in a tew tab, as inteded.
+- The links in the navigation bar and Logo directs the user to the designated section and homepage. (Works as intended).
+- A message saying "Your subscription has been fully registered!" will pop up when the user submits for the weekly newsletter. (Works as intended)
+- The Social Media icons in the footer redirects the user to the designated social medias which will open up in a tew tab. (Works as intended)
 
 ### Media Query Responsiveness
 
@@ -108,6 +114,43 @@ Cloning your repository will allow you to download a local version of the reposi
 4. Now open Codeanywhere or whatever editor you use & select the directory location where you would like the clone created
 5. In the terminal type 'git clone' & then paste the link you copied in GitHub
 6. Press enter and your local clone will be created.
+
+## Technologies Used
+
+### HTML
+- I used HTML to create the basic content of the project.
+
+### CSS
+- I used CSS to style the content of the project.
+
+### Google Fonts
+- I used Google Fonts in order to obtain the different font styles. Fonts used in this project was Philosopher and Libre Baskerville.
+
+### Favicon
+
+- I used [Favicon](https://favicon.io/) in order to obtain the cocktail glass favicon that is being used on this project.
+
+### Font Awesome
+
+- The social media icons were obtained at [Font Awesome](https://fontawesome.com/)
+
+### GitHub
+- GitHub was used to store the code for the project after being pushed.
+  
+### Codeanywhere
+- Codeanywhere was used as the code editor.
+  
+### WC3 Markup Validation Service
+- Used to validate the entire HTML code that is being used in this project.
+
+### WC3 CSS Validation Service
+- Used to validate the entire CSS styles that is being used in this project.
+
+### Slack
+- I used Slack to solve a lot of minor obstacles that I stumbled upon during the creation of this project.
+
+### Google
+- I used Google to find solutions to minor errors that I came across during the creation of this project.
 
 ## Credits
 
