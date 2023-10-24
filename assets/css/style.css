@@ -9,7 +9,6 @@
 }
 
 /* General css styles */
-
 body {
         min-height: 100vh;
         display: flex;
@@ -32,13 +31,9 @@ main {
     margin-top: 47px;
     display: flex;
     flex-direction: column;
-
 }
 
-
-
 /* hero image style idea taken from Love Running Project */
-
 #hero {
     height: 600px;
     width: 100%;
@@ -118,7 +113,6 @@ h1 {
 }
 
 /* Footer styles taken form the Love Running Project */
-
 #social-network {
     text-align: center;
     padding: 20px 0;
@@ -190,7 +184,6 @@ h1 {
 }
 
 /* Subscription page stylings */
-
 #signup {
     padding: 20px 10% 0 10%;
     display: flex;
