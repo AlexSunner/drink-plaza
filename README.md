@@ -2,7 +2,7 @@
 
 Drink Plaza is the home of high class cocktail recipes. This site was created with the intention to help people explore their tastebuds. Drink Plaza will be useful for people who are unsure of what cocktails they are going to mix during gatherings such as birthday parties, holidays, and family dinners.
 
-
+The live link can be found here - <https://alexsunner.github.io/drink-plaza/>
 
 ![Responsive Mockup](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/mockup.jpg?raw=true)
 
@@ -56,10 +56,6 @@ Here is a presentation of the different features added into Drink Plaza.
 
 ![Information Section](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/infofirstpage.jpg?raw=true)
 
-### Features Left to Implement
-
-- Another feature idea
-
 ## Testing
 
 - Every function has been tested and works as intended. 
@@ -89,10 +85,29 @@ Here is a presentation of the different features added into Drink Plaza.
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - From the source section drop-down menu, select the Main Branch
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - <https://alexsunner.github.io/drink-plaza/>
+
+- Forking the GitHub Repository
+
+If you want to make changes to your repository without affecting it, you can make a copy of it by 'Forking' it. This ensures your original repository remains unchanged.
+
+1. Find the relevant GitHub repository
+2. In the top right corner of the page, click the Fork button (under your account)
+3. Your repository has now been 'Forked' and you have a copy to work on
+
+- Cloning the GitHub Repository
+
+Cloning your repository will allow you to download a local version of the repository to be worked on. Cloning can also be a great way to backup your work.
+
+1. Find the relevant GitHub repository
+2. Press the arrow on the Code button
+3. Copy the link that is shown in the drop-down
+4. Now open Codeanywhere or whatever editor you use & select the directory location where you would like the clone created
+5. In the terminal type 'git clone' & then paste the link you copied in GitHub
+6. Press enter and your local clone will be created.
 
 ## Credits
 
@@ -111,3 +126,8 @@ The live link can be found here - <https://alexsunner.github.io/drink-plaza/>
 - The background image for every page was taken from <https://www.freepik.com/free-photos-vectors/dark-background>
 - The photo used on the landing page, the hero image, was taken from <https://www.gqindia.com/live-well/content/world-cocktail-day-beat-the-heat-with-these-refreshing-cocktails>
 - The images used for the Recipes page was taken from <https://drinkoteket.se/> Lots of credit to this amazing page!
+
+### Readme
+
+- The content of my README was inspired by the README of the 'Love Running' project.
+- The idea of explaining the steps to Cloning and Forking repositories was taken from Daisy Gunn <https://github.com/daisygunn/la-petite-traveller/blob/master/README.md>
