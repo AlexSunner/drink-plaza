@@ -156,13 +156,13 @@ Cloning your repository will allow you to download a local version of the reposi
 
 ### Content
 
+- Instructions on how to implement the header/navigation bar and make it responsive to different screen sizes taken from <https://www.w3schools.com/howto/howto_css_responsive_header.asp>
 - The text for the Home page was taken from <https://en.wikipedia.org/wiki/Cocktail> and also from <https://www.quora.com/Why-does-people-like-cocktail-drinks>
 - Instructions on changing list style bullet color for the recipe section was taken from <https://www.w3.org/Style/Examples/007/color-bullets.en.html#colored>
 - The footer was inspired by the [Love Running Project](https://github.com/AlexSunner/love-running)
-- Instructions on implementing the header functions was taken from <https://www.w3schools.com/howto/howto_css_responsive_header.asp>
 - The Recipes gallery section idea came from <https://www.geeksforgeeks.org/css-image-gallery/>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Instructions on implementing the fade in animation in every page was taken from <https://blog.devgenius.io/how-to-create-a-fade-in-animation-with-css-fd664da22cd9>
+- Instructions on implementing the fade in animation was taken from <https://blog.devgenius.io/how-to-create-a-fade-in-animation-with-css-fd664da22cd9>
 
 ### Media
 
