@@ -7,6 +7,7 @@ The live link can be found here - <https://alexsunner.github.io/drink-plaza/>
 ## Planning
 
 ### Before creating this project, I had a lot of thoughts and ideas with how I wanted the final product to look like.
+
 - I generally wanted to go with a very simple but dark theme, that is why I chose the gray background image.
 - I wanted to have a really cool cover image which strikes the user with the 'wow' factor. I am very happy with the one I used.
 - I wanted to have a recipe section where users can find pictures and lists of ingredients for different cocktails.
@@ -118,12 +119,15 @@ Cloning your repository will allow you to download a local version of the reposi
 ## Technologies Used
 
 ### HTML
+
 - I used HTML to create the basic content of the project.
 
 ### CSS
+
 - I used CSS to style the content of the project.
 
 ### Google Fonts
+
 - I used Google Fonts in order to obtain the different font styles. Fonts used in this project was Philosopher and Libre Baskerville.
 
 ### Favicon
@@ -135,21 +139,27 @@ Cloning your repository will allow you to download a local version of the reposi
 - The social media icons were obtained at [Font Awesome](https://fontawesome.com/)
 
 ### GitHub
+
 - GitHub was used to store the code for the project after being pushed.
   
 ### Codeanywhere
+
 - Codeanywhere was used as the code editor.
   
 ### WC3 Markup Validation Service
+
 - Used to validate the entire HTML code that is being used in this project.
 
 ### WC3 CSS Validation Service
+
 - Used to validate the entire CSS styles that is being used in this project.
 
 ### Slack
+
 - I used Slack to solve a lot of minor obstacles that I stumbled upon during the creation of this project.
 
 ### Google
+
 - I used Google to find solutions to minor errors that I came across during the creation of this project.
 
 ## Credits
@@ -163,6 +173,7 @@ Cloning your repository will allow you to download a local version of the reposi
 - The Recipes gallery section idea came from <https://www.geeksforgeeks.org/css-image-gallery/>
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Instructions on implementing the fade in animation was taken from <https://blog.devgenius.io/how-to-create-a-fade-in-animation-with-css-fd664da22cd9>
+- How to code the form section in the Subscription page was inspired by the [Love Running Project](https://github.com/AlexSunner/love-running)
 
 ### Media
 
@@ -173,4 +184,5 @@ Cloning your repository will allow you to download a local version of the reposi
 ### Readme
 
 - The content of my README was inspired by the README of the 'Love Running' project.
-- The idea of explaining the steps to Cloning and Forking repositories was taken from Daisy Gunn <https://github.com/daisygunn/la-petite-traveller/blob/master/README.md>
+- The idea of explaining the steps to Cloning and Forking repositories, as well as including a Technologies Used section in the readme was taken from Daisy Gunn <https://github.com/daisygunn/la-petite-traveller/blob/master/README.md>
+- Lots of credit to my mentor Harry Dhillon for guiding and supporting me throughout the process of creating this project.
