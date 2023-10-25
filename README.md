@@ -22,7 +22,7 @@ Here is a presentation of the different features added into Drink Plaza.
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Recipes, and Subscription page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, Recipes, and Subscription page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - The navigation bar changes appearance depending on your screen size for better user experience.
 
@@ -53,7 +53,7 @@ Here is a presentation of the different features added into Drink Plaza.
 - __The Footer__
 
   - The footer section includes links to the relevant social media sites for Drink Plaza. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/AlexSunner/drink-plaza/blob/main/assets/readmephotos/footer.jpg?raw=true)
 
@@ -66,9 +66,9 @@ Here is a presentation of the different features added into Drink Plaza.
 
 ## Testing
 
-- The links in the navigation bar and Logo directs the user to the designated section and homepage. (Works as intended).
-- A message saying "Your subscription has been fully registered!" will pop up when the user submits for the weekly newsletter. (Works as intended)
-- The Social Media icons in the footer redirects the user to the designated social medias which will open up in a tew tab. (Works as intended)
+- The links in the navigation bar and Logo directs the user to the designated section and homepage.
+- A message saying "Your subscription has been fully registered!" will pop up when the user submits for the weekly newsletter.
+- The Social Media icons in the footer redirects the user to the designated social medias which will open up in a tew tab.
 
 ### Media Query Responsiveness
 
